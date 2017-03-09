@@ -1,0 +1,42 @@
+body {
+background: #e96443; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #e96443 , #904e95); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #e96443 , #904e95); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+table {
+  width: 600px;
+  height: 600px;
+  margin: 0 auto;
+  font-size: 20px;
+  border-spacing: 0;
+  -webkit-box-shadow: 10px 15px 24px -9px rgba(0, 0, 0, 0.44);
+  -moz-box-shadow: 10px 15px 24px -9px rgba(0, 0, 0, 0.44);
+  -box-shadow: 10px 15px 24px -9px rgba(0, 0, 0, 0.44);
+  overflow: hidden;
+  border-radius: 12px;
+}
+th {
+  color: white;
+  padding: 15px;
+  background: #34495e;
+  text-align: left;
+}
+
+td {
+  background: white;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+}
+td, th {
+text-align: left;
+padding: 7px 13px 7px 13px;
+}
+#games {
+margin: 40px 0;
+text-align: center;
+text-shadow: 1.5px 1.5px black;
+color: white;
+}

@@ -1,0 +1,120 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  position: relative;
+  min-height: 100%
+}
+.nav1 {
+  height: 600px;
+}
+.nav2 {
+  height: 350px;
+}
+
+header {
+  width: 100%;
+}
+
+
+.div1 {
+  width: auto;
+  height: 100px;
+  background: black;
+}
+
+.Pengar {
+  margin: 0;
+  color: white;
+  text-align: center;
+  padding-top: 27px;
+}
+
+a {
+  padding-left: 20px;
+  font-size: 20px;
+}
+
+.div2 {
+  float: right;
+  width: 1000px;
+}
+
+p {
+  margin: 2%;
+  font-size: 18px;
+}
+h1 {
+margin: 2%;
+
+}
+
+footer {
+position: absolute;
+background: #bdc3c7;
+text-align: center;
+width: 100%;
+bottom: 0;
+color: black;
+height: 40px;
+
+
+
+}
+h2 {
+  text-align: center;
+  color: white;
+padding-top: 35px;
+}
+input {
+  text-align: center;
+  margin: 0 auto;
+  width: 300px;
+  height: 30px;
+  border-radius: 12px;
+  margin-top: 8px;
+  font-size: 18px;
+  border: 2px solid #2c3e50;
+
+}
+form {
+  text-align: center;
+  padding-bottom: 50px;
+}
+textarea{
+  width: 300px;
+  height: auto;
+  text-align: center;
+  border-radius: 12px;
+  margin-top: 8px;
+  font-size: 18px;
+  border: 2px solid #2c3e50;
+}
+
+footer p {
+text-align: center;
+font-size: 24px;
+
+}
+#index {
+  height: 250px;
+}
+img {
+ width: 100%;
+ border-radius: 24px;
+ border: 2px solids black;
+}
+
+.gall {
+  padding-bottom: 10%;
+}
+.padd {
+  padding: 8px 8px;
+  margin: 0;
+}
+.DivAbove {
+  padding-bottom: 50px;
+}
+.buttom {
+  background: #2980b9;
+}

@@ -1,0 +1,104 @@
+
+.nav1 {
+  height: 600px;
+}
+.nav2 {
+  height: 350px;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+}
+
+ nav {
+  background: white;
+  border-right: 1px solid;
+  width: 200px;
+  height: 250px;
+  float: left;
+  padding-right: 8px;
+  margin-left: 8px;
+  padding-bottom: 0;
+
+}
+
+.div1 {
+  width: auto;
+  height: 100px;
+  background: black;
+}
+
+.Pengar {
+  margin: 0;
+  color: white;
+  text-align: center;
+  padding-top: 27px;
+}
+
+a {
+  padding-left: 20px;
+  font-size: 20px;
+}
+
+.div2 {
+  float: right;
+  width: 1000px;
+}
+
+.lorem {
+  margin-left: 250px;
+  font-size: 18px;
+}
+.Pengar2 {
+margin-left: 250px;
+}
+
+footer {
+  height: 100px;
+  width: auto;
+  background: black;
+  margin: 0;
+  padding: 0;
+  clear: both;
+
+}
+h2 {
+  text-align: center;
+  color: white;
+padding-top: 35px;
+}
+input {
+  text-align: center;
+  margin: 0 auto;
+  width: 300px;
+  height: 30px;
+  border-radius: 12px;
+  margin-left: 300px;
+  margin-top: 8px;
+  font-size: 18px;
+}
+textarea{
+  width: 300px;
+  height: auto;
+  text-align: center;
+  border-radius: 12px;
+  margin-left: 300px;
+  margin-top: 8px;
+  font-size: 18px;
+}
+
+p {
+  margin-left: 200px;
+}
+#index {
+  height: 250px;
+}
+img {
+
+}
+
+.gallbild {
+  padding-left: 20px;
+}

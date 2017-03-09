@@ -1,0 +1,29 @@
+body {
+  background: #2c3e50;
+   transition: background ease 1.0s;
+}
+div {
+  background: white;
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+.fa {
+  color: #34495e;
+  font-size: 140px;
+  margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+.on {
+  background: #f1c40f;
+}
